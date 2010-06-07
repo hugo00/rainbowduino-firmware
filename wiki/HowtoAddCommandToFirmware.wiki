@@ -1,5 +1,5 @@
 #summary The procedure to add a new command to Rainbowduino Firmware 3
-#labels Doc-Architecture
+#labels Doc-Architecture,Featured
 
 = How to add a new command to Rainbowduino Firmware 3 =
 
