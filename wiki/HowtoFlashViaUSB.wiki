@@ -3,8 +3,6 @@
 
 = How to flash a Rainbowduino device via USB =
 
-This text is adapted from [http://www.rngtng.com/2009/06/25/rainbowduino-here-it-is-and-how-to-program-it/ "Rainbowduino here it is! (and how to program it)"]
-
 == Introduction ==
 
 Rainbowduino hardware hasn't a USB port for flashing the software/firmware to the onboard ATmega processor.
@@ -25,7 +23,9 @@ void loop(){
 
 == Connection diagram ==
 
-http://www.rngtng.com/files/2009/06/arduino_rainbowduino.jpg
+http://kino-eye.com/dmi/color-tilt/serial-config.png
+
+_(Image source: [http://kino-eye.com/dmi/color-tilt/])_
 
   * power off both devices, to avoid the risk of damaging the hardware
   * connect Arduino 5V pin to Rainbowduino Vcc
@@ -41,3 +41,15 @@ After selecting the proper hardware board on the Arduino IDE (ATmega168), downlo
 Power off both devices, and disconnect everything.
 
 Your Rainbowduino is now ready.
+
+== Credits == 
+
+This text is adapted from: [http://www.rngtng.com/2009/06/25/rainbowduino-here-it-is-and-how-to-program-it/ "Rainbowduino here it is! (and how to program it)"]
+Other information are taken from: [http://kino-eye.com/dmi/color-tilt/ "Color Tilt"] (at the page's bottom)
+
+----
+== Related images ==
+
+http://www.rngtng.com/files/2009/06/arduino_rainbowduino.jpg
+
+_(Image source: [http://www.rngtng.com/2009/06/25/rainbowduino-here-it-is-and-how-to-program-it/])_
