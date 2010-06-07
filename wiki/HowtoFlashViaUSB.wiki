@@ -34,7 +34,7 @@ http://www.rngtng.com/files/2009/06/arduino_rainbowduino.jpg
 
 == Flash the Rainbowduino ==
 
-After selecting the proper hardware board on the Arduino IDE (ATmega168), download the code (i.e. Rainbowduino_Firmware_v3_0) on the processor.
+After selecting the proper hardware board on the Arduino IDE (ATmega168), download the code (i.e. the Rainbowduino Firmware v3.0) on the processor.
 Power off both devices, and disconnect everything.
 
 Your Rainbowduino is now ready.
