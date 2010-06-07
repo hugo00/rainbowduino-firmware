@@ -1,7 +1,7 @@
 #summary One-sentence summary of this page.
 #labels Doc-ReleaseNote,Featured
 
-= Release note for Raibowduino v3.0 =
+= Release notes for Raibowduino v3.0 =
 
 == version 3.0h _(8 Jun 2010)_===
   * new function `drawLine` (`CMD_DRAW_LINE`)
