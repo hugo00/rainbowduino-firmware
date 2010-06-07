@@ -1,5 +1,5 @@
 #summary One-sentence summary of this page.
-#labels Doc-ReleaseNote
+#labels Doc-ReleaseNote,Featured
 
 = Release note for Raibowduino v3.0 =
 
