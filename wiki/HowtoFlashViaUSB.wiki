@@ -13,7 +13,7 @@ One simple solution is to use a standard Arduino (or a compatible board) connect
 
 == Before you start ==
 
-Make sure that your Arduino has no software running. To erase any code, flash the processor with the followin void code:
+Make sure that your Arduino has no software running. To erase any code, flash the processor with the following void code:
 {{{
 void setup(){
 }
