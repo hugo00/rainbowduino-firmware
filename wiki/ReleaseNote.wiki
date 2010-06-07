@@ -1,5 +1,5 @@
+#summary Release notes up to the latest release of Rainbowduino Firmware v3.0
 #labels Doc-ReleaseNote,Featured
-#Release notes up to the latest release of Rainbowduino Firmware v3.0
 
 = Release notes for Raibowduino v3.0 =
 
