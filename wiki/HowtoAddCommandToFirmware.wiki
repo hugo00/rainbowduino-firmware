@@ -22,7 +22,7 @@ Edit *!WireCommands.h* on firmware side and add a `#define` for your procedure:
 #define CMD_MY_PROC     0x55
 }}}
 
-Now, edit again *!Rainbowduino_Firmware_v3_0.pde* and add the Wire command to the processing procedure. Find the function `void processWireCommand()` and add a new `case` in the `swich` check:
+Now, edit again *!Rainbowduino_Firmware_v3_0.pde* and add the Wire command to the processing procedure. Find the function `processWireCommand()` and add a new `case` in the `switch` check:
 {{{
 void processWireCommand() {
   [...]
