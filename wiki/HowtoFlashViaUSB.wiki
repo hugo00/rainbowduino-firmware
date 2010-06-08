@@ -23,9 +23,9 @@ void loop(){
 
 == Connection diagram ==
 
-http://kino-eye.com/dmi/color-tilt/serial-config.png
+http://www.rngtng.com/files/2009/06/arduino_rainbowduino.jpg
 
-_(Image source: [http://kino-eye.com/dmi/color-tilt/])_
+_(Image source: [http://www.rngtng.com/2009/06/25/rainbowduino-here-it-is-and-how-to-program-it/])_
 
   * power off both devices, to avoid the risk of damaging the hardware
   * connect Arduino 5V pin to Rainbowduino Vcc
@@ -46,10 +46,3 @@ Your Rainbowduino is now ready.
 
 This text is adapted from: [http://www.rngtng.com/2009/06/25/rainbowduino-here-it-is-and-how-to-program-it/ "Rainbowduino here it is! (and how to program it)"]
 Other information are taken from: [http://kino-eye.com/dmi/color-tilt/ "Color Tilt"] (at the page's bottom)
-
-----
-== Related images ==
-
-http://www.rngtng.com/files/2009/06/arduino_rainbowduino.jpg
-
-_(Image source: [http://www.rngtng.com/2009/06/25/rainbowduino-here-it-is-and-how-to-program-it/])_
