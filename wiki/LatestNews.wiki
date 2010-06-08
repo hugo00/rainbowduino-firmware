@@ -5,6 +5,7 @@
 
 === June 9, 2010 ===
 
+  * changed *Featured tag* on Wiki pages
   * wrote *LatestNews* in Wiki section
   * updated project main page
   * modified *ReleaseNote* in Wiki section
