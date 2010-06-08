@@ -12,4 +12,4 @@
   * function `setPixel` changed to `drawPixel` with the same args (`CMD_SET_PIXEL` changed to `CMD_DRAW_PIXEL`)
   * an new function, `toByte`, has been added to the master code in order to allow negative values for the coordinates arguments; this function map a range `-128 -> 127` to a range `0 -> 255`
   * a new function, `toInt` (the name is subject to change), has been added to the firmware code in order to shift back the coordinate value in the proper range
-  * the master sorftware file name has been changed from "`Rainbowduino_v3_0_Master.pde`" to "`Rainbowduino_Master_v3.0h.pde`" in order to have a version number corrispondency with the firmware
+  * the master software file name has been changed from "`Rainbowduino_v3_0_Master.pde`" to "`Rainbowduino_Master_v3.0h.pde`" in order to have a version number corrispondency with the firmware
