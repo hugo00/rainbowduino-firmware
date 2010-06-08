@@ -1,5 +1,5 @@
 #summary Latest news about this project
-#labels News
+#labels Doc-News,Featured
 
 = Latest News =
 
