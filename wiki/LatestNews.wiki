@@ -7,6 +7,7 @@
 
   * wrote *LatestNews* in Wiki section
   * updated project main page
+  * modified *ReleaseNote* in Wiki section
   * wrote *FirmwareFunctionsReference* in Wiki section
   * corrected *HowtoFlashViaUSB* removing defective wiring diagram
 
