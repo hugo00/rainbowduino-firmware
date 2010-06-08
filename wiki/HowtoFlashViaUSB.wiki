@@ -1,5 +1,5 @@
 #summary A connection guide to flash Rainbowduino hardware using the USB port of an Arduino device
-#labels Doc-Generic,Featured
+#labels Doc-Generic
 
 = How to flash a Rainbowduino device via USB =
 
