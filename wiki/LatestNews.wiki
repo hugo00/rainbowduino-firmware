@@ -9,7 +9,7 @@
   * updated project main page
   * modified *ReleaseNote* in Wiki section
   * wrote *FirmwareFunctionsReference* in Wiki section
-  * corrected *HowtoFlashViaUSB* removing defective wiring diagram
+  * corrected *[http://code.google.com/p/rainbowduino-firmware/wiki/HowtoFlashViaUSB HowtoFlashViaUSB]* removing defective wiring diagram
 
 === June 8, 2010 ===
 
