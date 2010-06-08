@@ -1,0 +1,14 @@
+#summary A complete reference for the functions in Rainbowduino Firmware 3
+
+= Function Reference =
+
+== Introduction ==
+
+Rainbowduino firmware has a set of graphic functions that are associated to the command received via I2C.
+The graphic subsystem consist in two main buffer, `FRONT_BUFFER` and `BACK_BUFFER`. There are also 4 auxiliary buffer available to the user.
+
+Every graphic function works on the `BACK_BUFFER` or on one of the auxiliary buffers, while the hardware shows the `FRONT BUFFER`.  This method is used to prevent _filckering_ on the display.
+
+Moreover, the action of swapping the two main buffers is done at the end of every refresh cycle.
+
+_(going to put my daghter to bed... I'll be back soon)_
