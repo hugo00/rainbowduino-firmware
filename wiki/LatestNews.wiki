@@ -1,0 +1,19 @@
+#summary Latest news about this project
+#labels News
+
+= Latest News =
+
+=== June 9, 2010 ===
+
+  * wrote *LatestNews* in Wiki section
+  * updated project main page
+  * wrote *FirmwareFunctionsReference* in Wiki section
+  * corrected *HowtoFlashViaUSB* removing defective wiring diagram
+
+=== June 8, 2010 ===
+
+  * updated project main page
+  * wrote *ReleaseNote* in Wiki section
+  * released new version *v3.0h* in Downloads section
+
+----
