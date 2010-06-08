@@ -1,4 +1,5 @@
 #summary A complete reference for the functions in Rainbowduino Firmware 3
+#labels Doc-Reference,Featured
 
 = Function Reference =
 
