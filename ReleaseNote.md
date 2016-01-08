@@ -1,0 +1,12 @@
+# Release notes for Raibowduino v3.0 #
+
+## version 3.0h _(8 Jun 2010)_ ##
+  * new function `drawLine` (`CMD_DRAW_LINE`)
+  * new function `drawSquare` (`CMD_DRAW_SQUARE`)
+  * new function `drawRowMask` (`CMD_DRAW_ROW_MASK`)
+  * the function `printChar` has been modified to use `drawRowMask` avoiding redundant code
+  * command `CMD_PRINT_CHAR` changed byte-code to `0x2A`
+  * function `setPixel` changed to `drawPixel` with the same args (`CMD_SET_PIXEL` changed to `CMD_DRAW_PIXEL`)
+  * an new function, `toByte`, has been added to the master code in order to allow negative values for the coordinates arguments; this function map a range `-128 -> 127` to a range `0 -> 255`
+  * a new function, `toInt` (the name is subject to change), has been added to the firmware code in order to shift back the coordinate value in the proper range
+  * the master software file name has been changed from "`Rainbowduino_v3_0_Master.pde`" to "`Rainbowduino_Master_v3.0h.pde`" in order to have a version number corrispondency with the firmware
